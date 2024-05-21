@@ -24,8 +24,9 @@ Grand Blanc High School Student
 ***
 ### Social Media 💬
 addisonnmcguire98@gbstu.org
-[Instagram](https://www.instagram.com/)
-[LinkedIn](https://www.linkedin.com/company/linked-com)
+- [Instagram](https://www.instagram.com/) ![Alt](![image](https://github.com/addym07/addym07/assets/158605883/9d63d8ef-2864-4916-a28b-f58101649e83)
+
+- [LinkedIn](https://www.linkedin.com/company/linked-com)
 ***
 ### GitHub Statistics
 <p align='center'> 
