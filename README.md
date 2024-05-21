@@ -13,7 +13,7 @@ Grand Blanc High School Student
 4. Smart
 ***
 ### Projects  🛠
-- I am currently working on lots of Makecode Arcade projects in AP Computer Science Pricciples class
+- I am currently working on lots of Makecode Arcade projects in AP Computer Science Principles class
 - I volunteer in my community often
 - Currently in the process of becoming a CSP Ambassador for my school
 ***
